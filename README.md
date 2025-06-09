@@ -24,10 +24,6 @@ This E-commerce web application API allow user to purchase the products,manage t
 
 - **clone repo :** <br>
 
-```bash
-  git clone https://github.com/rajesh730/Ecommerce-api
-```
-
 -**Install Dependencies :** `npm install`
 
 - **Run :** `server.js`
